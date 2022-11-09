@@ -1,1 +1,1 @@
-Please refer to the project report for an indept explanation
+This is a machine learning model that uses Long Short Term Memory neural networks to analyse a database of 50,000 IMDB reviews in plaintext and classifies them as positive or negative thereby providing a quantitative rating for movies
